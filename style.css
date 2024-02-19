@@ -1,0 +1,20 @@
+h1{
+    text-align:center;
+    color:rgb(71, 206, 255);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    border:2px rgb(111, 210, 30) solid;
+    width: 78%;
+    margin: 40px;
+    padding: 20px;
+    background-image: url("https://www.cev.ac.in/en/wp-content/uploads/2017/12/RGM_5940-1-980x400.jpg")
+}
+li{
+    list-style: lower-roman;
+}
+img{
+    width:400px ;
+    height:200px;
+}
